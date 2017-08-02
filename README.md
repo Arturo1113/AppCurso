@@ -1,8 +1,9 @@
 # AppCurso
 Aquí está el código a usar. 
 
-Diseno.xml----primera clase
+----primera clase-----
+Diseno.xml
 
+----tercera clase-----
 activity_main.xml
-                     -----segunda clase
 activity_second.xml
